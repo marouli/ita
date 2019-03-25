@@ -1,29 +1,29 @@
-# stadsschouwburgamsterdam [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
-> crawler for stadsschouwburgamsterdam
+# ita [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+> crawler for ita
 
 ## Installation
 
 ```sh
-$ npm install --save stadsschouwburgamsterdam
+$ npm install --save ita
 ```
 
 ## Usage
 
 ```js
-const stadsschouwburgamsterdam = require('stadsschouwburgamsterdam');
+const ita = require('ita');
 
-stadsschouwburgamsterdam('Rainbow');
+ita('Rainbow');
 ```
 ## License
 
 Apache-2.0 © [Maria Sidiropoulou](https://github.com/marouli)
 
 
-[npm-image]: https://badge.fury.io/js/stadsschouwburgamsterdam.svg
-[npm-url]: https://npmjs.org/package/stadsschouwburgamsterdam
-[travis-image]: https://travis-ci.org/marouli/stadsschouwburgamsterdam.svg?branch=master
-[travis-url]: https://travis-ci.org/marouli/stadsschouwburgamsterdam
-[daviddm-image]: https://david-dm.org/marouli/stadsschouwburgamsterdam.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/marouli/stadsschouwburgamsterdam
-[coveralls-image]: https://coveralls.io/repos/marouli/stadsschouwburgamsterdam/badge.svg
-[coveralls-url]: https://coveralls.io/r/marouli/stadsschouwburgamsterdam
+[npm-image]: https://badge.fury.io/js/ita.svg
+[npm-url]: https://npmjs.org/package/ita
+[travis-image]: https://travis-ci.org/marouli/ita.svg?branch=master
+[travis-url]: https://travis-ci.org/marouli/ita
+[daviddm-image]: https://david-dm.org/marouli/ita.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/marouli/ita
+[coveralls-image]: https://coveralls.io/repos/marouli/ita/badge.svg
+[coveralls-url]: https://coveralls.io/r/marouli/ita

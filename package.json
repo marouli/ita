@@ -1,8 +1,8 @@
 {
-  "name": "stadsschouwburgamsterdam",
+  "name": "ita",
   "version": "0.0.0",
-  "description": "crawler for stadsschouwburgamsterdam",
-  "homepage": "https://github.com/marouli/stadsschouwburgamsterdam",
+  "description": "crawler for ita",
+  "homepage": "https://github.com/marouli/ita",
   "author": {
     "name": "Maria Sidiropoulou",
     "email": "maroulisid@gmail.com",
@@ -59,9 +59,12 @@
     "pretest": "eslint .",
     "test": "jest"
   },
-  "repository": "marouli/stadsschouwburgamsterdam",
+  "repository": "marouli/ita",
   "jest": {
     "testEnvironment": "node"
   },
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
 }
